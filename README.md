@@ -109,6 +109,12 @@ const x = <MyType>someValue;
 
 ---
 
+## 拡張機能マーケットプレイス
+
+- [VSCodeマーケットプレイス](https://marketplace.visualstudio.com/items?itemName=colscenery.jump-to-match-tag)
+
+---
+
 ## License
 
 [MIT](./LICENSE.txt)
